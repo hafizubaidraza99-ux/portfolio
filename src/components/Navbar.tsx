@@ -42,8 +42,8 @@ export default function Navbar() {
               href="#top" 
               className="flex items-center gap-2 group font-display font-bold text-xl tracking-tight text-white hover:text-emerald-400 transition-colors"
             >
-              <div className="relative flex justify-center items-center w-8 h-8 rounded-lg bg-zinc-900 border border-zinc-800 group-hover:border-emerald-500/30 transition-all duration-300 overflow-hidden">
-                <span className="text-emerald-500 font-mono text-sm group-hover:hidden shadow-sm">n8</span>
+              <div className="relative flex justify-center items-center px-2 h-8 rounded-lg bg-zinc-900 border border-zinc-800 group-hover:border-emerald-500/30 transition-all duration-300 overflow-hidden">
+                <span className="text-emerald-500 font-mono text-sm group-hover:hidden shadow-sm">n8n</span>
                 <Cpu className="w-4 h-4 text-emerald-500 hidden group-hover:block animate-pulse" />
               </div>
               <span className="flex items-center gap-1">

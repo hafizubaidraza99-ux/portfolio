@@ -17,8 +17,8 @@ export default function Footer() {
             href="#top" 
             className="flex items-center gap-2 group font-display font-bold text-lg tracking-tight text-white hover:text-emerald-400 transition-colors"
           >
-            <div className="flex justify-center items-center w-7 h-7 rounded-lg bg-zinc-900 border border-zinc-800">
-              <span className="text-emerald-500 font-mono text-xs">n8</span>
+            <div className="flex justify-center items-center px-2 h-7 rounded-lg bg-zinc-900 border border-zinc-800">
+              <span className="text-emerald-500 font-mono text-xs">n8n</span>
             </div>
             <span>Hafiz Ubaid Raza</span>
           </a>
