@@ -1,9 +1,8 @@
 import { motion } from 'motion/react';
 import { ShieldCheck, Target, Zap, Award, Briefcase, FileCode } from 'lucide-react';
+import profileImage from '../assets/images/portfolio_avatar_1780137559775.png';
 
 export default function About() {
-  const profileImage = '/src/assets/images/portfolio_avatar_1780124366493.png';
-
   const capabilities = [
     {
       icon: <Zap className="w-5 h-5 text-emerald-400" />,
